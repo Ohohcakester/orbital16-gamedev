@@ -53,3 +53,7 @@ Expected Result:
 #### V5
 
 ![v5](https://github.com/Ohohcakester/orbital16-gamedev/blob/images/images/v5.gif)
+
+#### V6
+
+![v6](https://github.com/Ohohcakester/orbital16-gamedev/blob/images/images/v6.gif)
