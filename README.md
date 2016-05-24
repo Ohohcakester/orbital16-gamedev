@@ -41,3 +41,7 @@ Expected Result:
 #### V1,V2
 
 ![v1v2](https://github.com/Ohohcakester/orbital16-gamedev/blob/images/images/v1v2.png)
+
+#### V3
+
+![v3](https://github.com/Ohohcakester/orbital16-gamedev/blob/images/images/v3.gif)
