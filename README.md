@@ -1,6 +1,6 @@
 ## Orbital 2016 - Game Development
 
-[Slides are available here]([here](https://github.com/Ohohcakester/orbital16-gamedev/raw/master/slides.pdf)
+[Slides are available here](https://github.com/Ohohcakester/orbital16-gamedev/raw/master/slides.pdf)
 
 
 ## Setting Up SFML
