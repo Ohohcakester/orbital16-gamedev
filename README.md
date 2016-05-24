@@ -31,3 +31,9 @@ g++ -std=c++11 *.o -o _build/Game -L sfml/lib -lsfml-graphics -lsfml-window -lsf
 Expected Result:
 
 ![sfml_sample](https://github.com/Ohohcakester/orbital16-gamedev/blob/images/images/sfml_sample.gif)
+
+## Versions
+
+#### V0
+
+![v0](https://github.com/Ohohcakester/orbital16-gamedev/blob/images/images/v0.png)
